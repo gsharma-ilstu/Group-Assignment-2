@@ -105,26 +105,31 @@ ___________________________________________________________________
 ___________________________________________________________________
 
 <b> Histogram for Sentiment Analysis of Netflix on Day 1 </b1>  
-![Day 1](http://138.87.44.2:8787/files/figure/11-24.png)
+
+![Day 1](https://github.com/gsharma-ilstu/Group-Assignment-2/blob/master/histogramImages/11-24.png?raw=true)
 ___________________________________________________________________
 </br>
 <b> Histogram for Sentiment Analysis of Netflix on Day 2 </b1>
-![Day 2](http://138.87.44.2:8787/files/figure/11-25.png)
+
+![Day 2](https://github.com/gsharma-ilstu/Group-Assignment-2/blob/master/histogramImages/11-25.png?raw=true)
 ___________________________________________________________________
 
 </br>
 <b> Histogram for Sentiment Analysis of Netflix on Day 3 </b1>
-![Day 3](http://138.87.44.2:8787/files/figure/11-27.png)
+
+![Day 3](https://github.com/gsharma-ilstu/Group-Assignment-2/blob/master/histogramImages/11-27.png?raw=true)
 ___________________________________________________________________
 
 </br>
 <b> Histogram for Sentiment Analysis of Netflix on Day 4 </b1>
-![Day 4](http://138.87.44.2:8787/files/figure/11-28.png)
+
+![Day 4](https://github.com/gsharma-ilstu/Group-Assignment-2/blob/master/histogramImages/11-28.png?raw=true)
 ___________________________________________________________________
 
 </br>
 <b> Histogram for Sentiment Analysis of Netflix on Day 5 </b1>
-![Day 5](http://138.87.44.2:8787/files/figure/11-30.png)
+
+![Day 5](https://github.com/gsharma-ilstu/Group-Assignment-2/blob/master/histogramImages/11-30.png?raw=true)
 </br>
 
 ___________________________________________________________________
